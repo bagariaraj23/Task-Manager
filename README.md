@@ -11,15 +11,19 @@ React, Node, Express, MongoDB
 
 ## Features
 
-Create Tasks - We can Create tasks that we want to keep a track of
+#### <ins>Create Tasks</ins>
+- We can Create tasks that we want to keep a track of
 
+![Create-task](https://github.com/bagariaraj23/Task-Manager/blob/master/Assets/Creating-Task.png)
 
-Read Tasks - THe tasks can be entered manually using the input field
+#### <ins>Read Tasks</ins>
+- THe tasks can be entered manually using the input field
 
 ![Read Tasks](https://github.com/bagariaraj23/Task-Manager/blob/master/Assets/Tasks%20Added.png)
 
 
-Update Tasks - We can even update the tasks using the Edit features. The edit feature can be used to checck or uncheck the completed/incomplete tasks respectively. Also the name of the tasks can be edited too.
+#### <ins>Update Tasks</ins>
+- We can even update the tasks using the Edit features. The edit feature can be used to checck or uncheck the completed/incomplete tasks respectively. Also the name of the tasks can be edited too.
 
 ### Before Edit
 ![Before-edit](https://github.com/bagariaraj23/Task-Manager/blob/master/Assets/Before-Edit.png)
@@ -31,7 +35,8 @@ Update Tasks - We can even update the tasks using the Edit features. The edit fe
 ![After-edit](https://github.com/bagariaraj23/Task-Manager/blob/master/Assets/After-Edit.png)
 
 
-Delete Tasks - Finally we can even Delete the tasks if they are no longer in use.
+#### <ins>Delete Tasks</ins>
+- Finally we can even Delete the tasks if they are no longer in use.
 
 ### Before Delete
 ![Before-delete](https://github.com/bagariaraj23/Task-Manager/blob/master/Assets/After-Edit.png)
