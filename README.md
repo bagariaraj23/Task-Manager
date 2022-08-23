@@ -5,6 +5,8 @@
 
 React, Node, Express, MongoDB
 
+![Home Page of the Task-Manager](https://github.com/bagariaraj23/Task-Manager/blob/master/Assets/HomePage.png)
+
 ## Features
 
 Create Tasks - We can Create tasks that we want to keep a track of
